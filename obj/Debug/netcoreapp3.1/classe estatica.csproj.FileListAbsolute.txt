@@ -1,0 +1,13 @@
+C:\Users\Taila\Desktop\Dev\classe estatica\bin\Debug\netcoreapp3.1\classe estatica.exe
+C:\Users\Taila\Desktop\Dev\classe estatica\bin\Debug\netcoreapp3.1\classe estatica.deps.json
+C:\Users\Taila\Desktop\Dev\classe estatica\bin\Debug\netcoreapp3.1\classe estatica.runtimeconfig.json
+C:\Users\Taila\Desktop\Dev\classe estatica\bin\Debug\netcoreapp3.1\classe estatica.runtimeconfig.dev.json
+C:\Users\Taila\Desktop\Dev\classe estatica\bin\Debug\netcoreapp3.1\classe estatica.dll
+C:\Users\Taila\Desktop\Dev\classe estatica\bin\Debug\netcoreapp3.1\classe estatica.pdb
+C:\Users\Taila\Desktop\Dev\classe estatica\obj\Debug\netcoreapp3.1\classe estatica.csprojAssemblyReference.cache
+C:\Users\Taila\Desktop\Dev\classe estatica\obj\Debug\netcoreapp3.1\classe estatica.AssemblyInfoInputs.cache
+C:\Users\Taila\Desktop\Dev\classe estatica\obj\Debug\netcoreapp3.1\classe estatica.AssemblyInfo.cs
+C:\Users\Taila\Desktop\Dev\classe estatica\obj\Debug\netcoreapp3.1\classe estatica.csproj.CoreCompileInputs.cache
+C:\Users\Taila\Desktop\Dev\classe estatica\obj\Debug\netcoreapp3.1\classe estatica.dll
+C:\Users\Taila\Desktop\Dev\classe estatica\obj\Debug\netcoreapp3.1\classe estatica.pdb
+C:\Users\Taila\Desktop\Dev\classe estatica\obj\Debug\netcoreapp3.1\classe estatica.genruntimeconfig.cache
